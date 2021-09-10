@@ -18,6 +18,8 @@
   </a>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwashutaro0611&theme=dracula)
+
 <a href="https://github.com/miwashutaro0611">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=miwashutaro0611&count_private=true&show_icons=true&theme=dracula" />
 </a>
