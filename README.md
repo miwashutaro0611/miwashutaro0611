@@ -12,9 +12,16 @@
 [![](https://qiita-badge.apiapi.app/s/miwashutaro0611/contributions.svg)
 ](http://qiita.com/miwashutaro0611)
 
+[このプロフィールページで対応したことについて](https://jackswim3411.hatenablog.com/entry/2021/09/18/205206)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miwashutaro0611&theme=dracula)
 
-[![](https://github-readme-stats.vercel.app/api?username=miwashutaro0611&count_private=true&show_icons=true&theme=dracula)](https://github.com/miwashutaro0611)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&layout=compact&theme=dracula)](https://github.com/miwashutaro0611)
+<p>
+<a href="https://github.com/miwashutaro0611">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=miwashutaro0611&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/miwashutaro0611">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&layout=compact&theme=dracula" />
+</a>
+</p>
 
-[このプロフィールページで対応したことについて](https://jackswim3411.hatenablog.com/entry/2021/09/18/205206)
