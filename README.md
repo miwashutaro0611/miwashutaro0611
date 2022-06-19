@@ -11,6 +11,9 @@
 ](http://qiita.com/miwashutaro0611)
 [![](https://qiita-badge.apiapi.app/s/miwashutaro0611/contributions.svg)
 ](http://qiita.com/miwashutaro0611)
+[![]()]()
+[![](https://zenn.badge.nikaera.com/s/jackmiwamiwa/articles?style=plastic)](https://zenn.dev/jackmiwamiwa/articles)
+[![](https://zenn.badge.nikaera.com/s/jackmiwamiwa/likes?style=plastic)](https://zenn.dev/jackmiwamiwa)
 
 [このプロフィールページで対応したことについて](https://jackswim3411.hatenablog.com/entry/2021/09/18/205206)
 
@@ -23,5 +26,9 @@
 <a href="https://github.com/miwashutaro0611">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miwashutaro0611&layout=compact&theme=dracula" />
 </a>
+</p>
+
+<p>
+  <a href="https://activity-graph.herokuapp.com/graph?username=miwashutaro0611&theme=github"><img src="https://activity-graph.herokuapp.com/graph?username=miwashutaro0611&theme=github"></a>
 </p>
 
